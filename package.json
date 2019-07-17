@@ -39,8 +39,8 @@
     "js-yaml-promise": "^1.0.0",
     "lodash": "^4.16.4",
     "readline-sync": "^1.4.4",
-    "request": "^2.74.0",
-    "request-promise-native": "^1.0.3"
+    "request": "^2.88.1",
+    "request-promise-native": "^1.0.7"
   },
   "devDependencies": {
     "chai": "^3.5.0",
