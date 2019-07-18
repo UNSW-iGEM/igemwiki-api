@@ -1,6 +1,6 @@
 {
   "name": "igemwiki-api",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "NodeJS API and CLI for interacting with an igem wiki (downloading, updating pages, images, etc.)",
   "main": "index.js",
   "scripts": {
@@ -39,7 +39,7 @@
     "js-yaml-promise": "^1.0.0",
     "lodash": "^4.16.4",
     "readline-sync": "^1.4.4",
-    "request": "^2.88.1",
+    "request": "^2.88.0",
     "request-promise-native": "^1.0.7"
   },
   "devDependencies": {
