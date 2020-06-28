@@ -7,3 +7,5 @@ npm-debug.log
 test/download
 test/responses
 test/files/test-upload.html
+
+package-lock.json
